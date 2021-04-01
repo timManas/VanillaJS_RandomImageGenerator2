@@ -29,7 +29,7 @@ img {
   max-height: 100%;
   min-width: 100%;
   object-fit: cover;
-  vertical-align: bottom;
+  /* vertical-align: bottom; */
 }
 
 @media (max-aspect-ratio: 1/1) {
